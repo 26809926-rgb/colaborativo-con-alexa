@@ -13,5 +13,8 @@ opcion = int(input("elige una opcion del menu: "))
 cantidad = int(input("¿cuantos litrod quieres?: "))
 
 print("agua de mango")
+
+
+print("agua de coco")
      
 print("el agua de mango es lo mejor")
