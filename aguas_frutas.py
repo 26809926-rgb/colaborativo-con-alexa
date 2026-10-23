@@ -12,3 +12,4 @@ print("3. agua de horchata - $35")
 opcion = int(input("elige una opcion del menu: "))
 cantidad = int(input("¿cuantos litrod quieres?: "))
      
+print("hola naydelin")
